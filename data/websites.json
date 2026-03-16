@@ -2439,6 +2439,16 @@
     "publishedAt": "2025-08-26"
   },
   {
+    "name": "gray.gift",
+    "domain": "https://gray.gift",
+    "description": "Gray.Gift is the first creative storytelling reader and writer platform built for humans and AIs.",
+    "llmsTxtUrl": "https://gray.gift/llms.txt",
+    "llmsFullTxtUrl": "https://gray.gift/llms-full.txt",
+    "category": "ai-ml",
+    "favicon": "https://www.google.com/s2/favicons?domain=gray.gift&sz=128",
+    "publishedAt": "2026-03-16"
+  },
+  {
     "name": "Greece Vacation Search",
     "domain": "https://www.greecevacationsearch.com/",
     "description": "Greece Vacation Search will help you find the best greek island for your vacations in Greece among the dozens of famous Greek islands.",
@@ -2475,6 +2485,16 @@
     "category": "data-analytics",
     "favicon": "https://www.google.com/s2/favicons?domain=happyendpoint.com&sz=128",
     "publishedAt": "2026-03-05"
+  },
+  {
+    "name": "Haruspex",
+    "domain": "https://haruspex.guru",
+    "description": "AI-powered investment intelligence platform analyzing stocks across 21 dimensions including fundamentals, geopolitics, supply chain, and sentiment",
+    "llmsTxtUrl": "https://haruspex.guru/llms.txt",
+    "llmsFullTxtUrl": "https://haruspex.guru/llms-full.txt",
+    "category": "data-analytics",
+    "favicon": "https://www.google.com/s2/favicons?domain=haruspex.guru&sz=128",
+    "publishedAt": "2026-03-16"
   },
   {
     "name": "heeb",
